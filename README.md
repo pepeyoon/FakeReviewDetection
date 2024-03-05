@@ -1,4 +1,4 @@
-### Fake Review Detection Model
+# Fake Review Detection Model
 
 ## Project Description
 
